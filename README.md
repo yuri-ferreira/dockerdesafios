@@ -14,7 +14,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 6. [PLACEHOLDER](/exerc06/06.md)
 7. [PLACEHOLDER](/exerc07/07.md)
 8. [PLACEHOLDER](/exerc08/08.md)
-9. [PLACEHOLDER](/exerc09/09.md)
+9. [Imagem via dockerfile para landing page](/exerc09/09.md)
 10. [PLACEHOLDER](/exerc10/10.md)
 11. [PLACEHOLDER](/exerc11/11.md)
 12. [PLACEHOLDER](/exerc12/12.md)
