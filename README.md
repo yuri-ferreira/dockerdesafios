@@ -10,7 +10,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 2. [Container rodando nginx com html personalizado via volume](/exerc02/02.md)
 3. [Container Ubuntu em modo interativo para instalar o curl](/exerc03/03.md)
 4. [Container MySQL com volume para persistência de dados](/exerc04/04.md)
-5. [PLACEHOLDER](/exerc05/05.md)
+5. [Container Alpine com varíavel de ambiente e comando echo](/exerc05/05.md)
 6. [PLACEHOLDER](/exerc06/06.md)
 7. [PLACEHOLDER](/exerc07/07.md)
 8. [PLACEHOLDER](/exerc08/08.md)
