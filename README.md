@@ -13,7 +13,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 5. [Container Alpine com varíavel de ambiente e comando echo](/exerc05/05.md)
 6. [PLACEHOLDER](/exerc06/06.md)
 7. [PLACEHOLDER](/exerc07/07.md)
-8. [PLACEHOLDER](/exerc08/08.md)
+8. [Docker Compose com PostgreSQL e pgAdmin](/exerc08/08.md)
 9. [Imagem via dockerfile para landing page](/exerc09/09.md)
 10. [PLACEHOLDER](/exerc10/10.md)
 11. [PLACEHOLDER](/exerc11/11.md)
