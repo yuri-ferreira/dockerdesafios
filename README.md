@@ -15,7 +15,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 7. [Docker Compose para comunicação de Front,Back e DB](/exerc07/07.md)
 8. [Docker Compose com PostgreSQL e pgAdmin](/exerc08/08.md)
 9. [Imagem via dockerfile para landing page](/exerc09/09.md)
-10. [PLACEHOLDER](/exerc10/10.md)
+10. [Container com aplicação em Node.js com usuário definido](/exerc10/10.md)
 11. [PLACEHOLDER](/exerc11/11.md)
 12. [PLACEHOLDER](/exerc12/12.md)
 13. [PLACEHOLDER](/exerc13/13.md)
