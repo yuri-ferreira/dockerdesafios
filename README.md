@@ -18,4 +18,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 10. [Container com aplicação em Node.js com usuário definido](/exerc10/10.md)
 11. [Buscar vulnerabilidades de uma imagem com Trivy e corrigi-las](/exerc11/11.md)
 12. [Aplicar boas práticas em um Dockerfile com más práticas](/exerc12/12.md)
-13. [PLACEHOLDER](/exerc13/13.md)
+13. [Dockerhub](/exerc13/13.md)
