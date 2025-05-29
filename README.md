@@ -2,7 +2,15 @@
 
 ## Visão Geral
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem IpsumM.
+Esses desafios de Docker foram muitos produtivos para meu conhecimento. Foi possível compreender não só como funciona o docker fazendo eles, mas também, adquirir conhecimento em outras áreas como:
+
+- OS : Aprendi bastante sobre sistemas operacionais, em específico, nas distribuições Linux. Suas diferentes versões e com quais pacotes estão instalados nelas. Por exemplo as distribuições Alpine não constumam vir com o pacote necessário para a criação de usuários.
+
+- Linguagens : Com os exercícios sobre Python ou Go, foi possível adquirir um imenso conhecimento que eu não tinha. Como funcionava uma aplicação em Go pelo [exercício 06](/exerc06/06.md) ou com o Python em diversos exercícios como [exercício 13](/exerc13/13.md).
+
+- Banco de dados : Foi possível aprender uma boa base de Mongodb, qual, não havia tido um contato, ainda mais que é um NoSQL. O PostgreSQL não tinha utilizado também, embora seja parecido com o MySql há suas diferenças.
+
+Foi uma experiência de fato amadurecedora e espero ter outras oportunidades assim ao longo do PB.
 
 ## Desafios:
 
